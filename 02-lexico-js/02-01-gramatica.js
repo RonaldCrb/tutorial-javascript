@@ -21,7 +21,7 @@ En webicultores no los utilizamos
 console.log('********************************')
 
 // ejemplo de semicolons
-console.log('hola mundo con semicolon');
+console.log('hola mundo con semicolon')
 console.log('hola mundo sin semicolon')
 
 /*
@@ -55,6 +55,13 @@ variable y Variable son 2 cosas distintas debido a que una comienza en mayuscula
 y la otra en minuscula y eso le instruye al interprete que nos referimos a cosas
 distintas. ten cuidado con mayusculas y minusculas
 */
+
+const a = 'minusculas'
+
+const A = 'mayusculas'
+
+console.log(a)
+console.log(A)
 
 /*
 
@@ -111,4 +118,4 @@ caracteres de cualquier alfabeto, asi como caracteres especiales y hasta emojis
 */
 console.log('********************************')
 
-console.log('aB-1&%$/()[]{}😬')
+console.log('aB-1&%$/()[]{}😬    🐙')
