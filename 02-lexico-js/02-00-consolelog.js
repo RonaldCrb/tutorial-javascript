@@ -7,4 +7,4 @@
 
 // new Date()
 
-console.log()
+console.log(new Date())
